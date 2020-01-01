@@ -56,94 +56,94 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Xamarin.AndroidX.Annotation">
-      <Version>1.0.2-preview02</Version>
+      <Version>1.1.0-preview06</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.AndroidX.AppCompat">
-      <Version>1.0.2-preview02</Version>
+      <Version>1.1.0-preview06</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.AndroidX.Arch.Core.Common">
-      <Version>2.0.1-preview02</Version>
+      <Version>2.1.0-preview06</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.AndroidX.Arch.Core.Runtime">
-      <Version>2.0.1-preview02</Version>
+      <Version>2.1.0-preview06</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.AndroidX.AsyncLayoutInflater">
-      <Version>1.0.0-preview02</Version>
+      <Version>1.0.0-preview06</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.AndroidX.Collection">
-      <Version>1.0.0-preview02</Version>
+      <Version>1.1.0-preview06</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.AndroidX.CoordinatorLayout">
-      <Version>1.0.0-preview02</Version>
+      <Version>1.0.0-preview06</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.AndroidX.Core">
-      <Version>1.0.1-preview02</Version>
+      <Version>1.1.0-preview06</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.AndroidX.CursorAdapter">
-      <Version>1.0.0-preview02</Version>
+      <Version>1.0.0-preview06</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.AndroidX.CustomView">
-      <Version>1.0.0-preview02</Version>
+      <Version>1.0.0-preview06</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.AndroidX.DocumentFile">
-      <Version>1.0.1-preview02</Version>
+      <Version>1.0.1-preview06</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.AndroidX.DrawerLayout">
-      <Version>1.0.0-preview02</Version>
+      <Version>1.0.0-preview06</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.AndroidX.Fragment">
-      <Version>1.0.0-preview02</Version>
+      <Version>1.1.0-preview06</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.AndroidX.Interpolator">
-      <Version>1.0.0-preview02</Version>
+      <Version>1.0.0-preview06</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.AndroidX.Legacy.Support.Core.UI">
-      <Version>1.0.0-preview02</Version>
+      <Version>1.0.0-preview06</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.AndroidX.Legacy.Support.Core.Utils">
-      <Version>1.0.0-preview02</Version>
+      <Version>1.0.0-preview06</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.AndroidX.Lifecycle.Common">
-      <Version>2.0.0-preview02</Version>
+      <Version>2.1.0-preview06</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.AndroidX.Lifecycle.LiveData">
-      <Version>2.0.0-preview02</Version>
+      <Version>2.1.0-preview06</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.AndroidX.Lifecycle.LiveData.Core">
-      <Version>2.0.0-preview02</Version>
+      <Version>2.1.0-preview06</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.AndroidX.Lifecycle.Runtime">
-      <Version>2.0.0-preview02</Version>
+      <Version>2.1.0-preview06</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.AndroidX.Lifecycle.ViewModel">
-      <Version>2.0.0-preview02</Version>
+      <Version>2.1.0-preview06</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.AndroidX.Loader">
-      <Version>1.0.0-preview02</Version>
+      <Version>1.1.0-preview06</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.AndroidX.LocalBroadcastManager">
-      <Version>1.0.0-preview02</Version>
+      <Version>1.0.0-preview06</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.AndroidX.Print">
-      <Version>1.0.0-preview02</Version>
+      <Version>1.0.0-preview06</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.AndroidX.SlidingPaneLayout">
-      <Version>1.0.0-preview02</Version>
+      <Version>1.1.0-preview06</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.AndroidX.SwipeRefreshLayout">
-      <Version>1.0.0-preview02</Version>
+      <Version>1.0.0-preview06</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.AndroidX.VectorDrawable">
-      <Version>1.0.1-preview02</Version>
+      <Version>1.1.0-preview06</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.AndroidX.VectorDrawable.Animated">
-      <Version>1.0.0-preview02</Version>
+      <Version>1.1.0-preview06</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.AndroidX.VersionedParcelable">
-      <Version>1.0.0-preview02</Version>
+      <Version>1.1.0-preview06</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.AndroidX.ViewPager">
-      <Version>1.0.0-preview02</Version>
+      <Version>1.0.0-preview06</Version>
     </PackageReference>
   </ItemGroup>
   <!-- </ItemGroup> -->
