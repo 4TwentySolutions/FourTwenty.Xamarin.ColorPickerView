@@ -6,6 +6,5 @@
   This sample removes the method: android.support.v4.content.CursorLoader.loadInBackground:
   <remove-node path="/api/package[@name='android.support.v4.content']/class[@name='CursorLoader']/method[@name='loadInBackground']" />
   -->
-    <attr path="/api/package[@name='com.skydoves.colorpickerview.sliders']/class[@name='AlphaSlideBar']/method[@name='updatePaint' and count(parameter)=1 and parameter[1][@type='android.graphics.Paint']]" name="visibility">protected</attr>
-    <attr path="/api/package[@name='com.skydoves.colorpickerview']/class[@name='ColorPickerView']" name="managedName">ColorPickerViewDotNet</attr>
+    <attr path="/api/package[@name='com.skydoves.colorpickerview.sliders']/class[@name='AlphaSlideBar']/method[@name='updatePaint' and count(parameter)=1 and parameter[1][@type='android.graphics.Paint']]" name="visibility">protected</attr>    
 </metadata>
