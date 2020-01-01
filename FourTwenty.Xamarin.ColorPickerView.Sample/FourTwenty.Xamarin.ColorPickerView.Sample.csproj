@@ -116,7 +116,7 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\FourTwenty.Xamarin.ColorPickerView\FourTwenty.Xamarin.ColorPickerView\FourTwenty.Xamarin.ColorPickerView.csproj">
+    <ProjectReference Include="..\FourTwenty.Xamarin.ColorPickerView\FourTwenty.Xamarin.ColorPickerView.csproj">
       <Project>{1ac6184b-0cd8-4400-a561-f1b9b5d1d5b7}</Project>
       <Name>FourTwenty.Xamarin.ColorPickerView</Name>
     </ProjectReference>
