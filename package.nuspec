@@ -52,7 +52,7 @@
     <summary></summary>
   </metadata>
   <files>
-    <file src="FourTwenty.Xamarin.ColorPickerView\bin\Release\FourTwenty.Xamarin.ColorPickerView.dll" target="lib\monoandroid10" /> 
+	<file src="FourTwenty.Xamarin.ColorPickerView\bin\Release\FourTwenty.Xamarin.ColorPickerView.dll" target="lib\MonoAndroid90" /> 
 	<file src="logo_small.png" target="" />    	
   </files>
 </package>
