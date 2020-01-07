@@ -17,7 +17,7 @@
 	<iconUrl>https://github.com/4TwentySolutions/FourTwenty.Xamarin.ColorPickerView/raw/master/logo_small.png</iconUrl>
     <dependencies>
       <group targetFramework="MonoAndroid90">
-        <dependency id="Xamarin.AndroidX.AppCompat" version="1.1.0-preview06" />
+        <dependency id="Xamarin.AndroidX.AppCompat" version="1.1.0-preview03" />
       </group>
     </dependencies>
     <summary></summary>
