@@ -1,1 +1,3 @@
-Update AndroidX reference to RC
+Update AndroidX reference to stable
+Added reference to System.Xml to prevent warnings
+Extended Metadata to avoid skipping properties

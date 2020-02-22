@@ -41,6 +41,7 @@
     <Reference Include="Mono.Android" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -57,7 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Xamarin.AndroidX.AppCompat">
-      <Version>1.1.0-rc1</Version>
+      <Version>1.1.0</Version>
     </PackageReference>
   </ItemGroup>
   <!-- </ItemGroup> -->
