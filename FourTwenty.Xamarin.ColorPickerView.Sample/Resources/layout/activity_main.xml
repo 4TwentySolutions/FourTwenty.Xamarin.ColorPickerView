@@ -1,14 +1,32 @@
 
-<RelativeLayout
+<LinearLayout 
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal">
     <com.skydoves.colorpickerview.ColorPickerView
         android:id="@+id/colorPickerView"
         android:layout_width="300dp"
         android:layout_height="300dp"
         app:palette="@drawable/palette"
-        app:selector="@drawable/wheel" />
-</RelativeLayout>
+        app:selector="@drawable/wheel"/>
+    <Button 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Show dialog"
+        android:layout_marginTop="15dp"
+        android:id="@+id/showButton"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Selected color"/>
+    <View
+         android:layout_width="25dp"
+         android:layout_height="25dp"
+         android:background="@android:color/black"
+         android:id="@+id/colorDisplay"/>
+</LinearLayout>
