@@ -1,3 +1,2 @@
-Update AndroidX reference to stable
-Added reference to System.Xml to prevent warnings
-Extended Metadata to avoid skipping properties
+Update AndroidX to latest
+Update ColorPickerView to 2.2.3

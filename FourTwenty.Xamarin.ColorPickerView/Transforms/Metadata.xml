@@ -11,5 +11,17 @@
     <attr path="/api/package[@name='com.skydoves.colorpickerview.sliders']/class[@name='AbstractSlider']/field[@name='color']" name="managedName">CurrentColor</attr>
     <attr path="/api/package[@name='com.skydoves.colorpickerview.sliders']/class[@name='AbstractSlider']/field[@name='preferenceName']" name="managedName">PreferenceNameString</attr>
     <attr path="/api/package[@name='com.skydoves.colorpickerview.sliders']/class[@name='AbstractSlider']/field[@name='selectedX']" name="managedName">CurrentX</attr>
-    <attr path="/api/package[@name='com.skydoves.colorpickerview.sliders']/class[@name='AbstractSlider']/field[@name='selectorPosition']" name="managedName">CurrentPosition</attr>
+    <attr path="/api/package[@name='com.skydoves.colorpickerview.sliders']/class[@name='AbstractSlider']/field[@name='selectorPosition']" name="managedName">CurrentPosition</attr>  
+
+    <attr path="/api/package[@name='com.skydoves.colorpickerview.sliders']/class[@name='AbstractSlider']" name="visibility">public</attr>
+
+    <add-node path="/api/package[@name='com.skydoves.colorpickerview.sliders']/class[@name='AbstractSlider']">
+        <method abstract="true" deprecated="not deprecated" final="false" name="setEnabled" jni-signature="(Z)V" bridge="true" native="false" return="void" jni-return="V" static="false" synchronized="false" synthetic="true" visibility="public">
+            <parameter name="p0" type="boolean" jni-type="Z">
+            </parameter>
+        </method>
+    </add-node>
+
+    <attr path="/api/package[@name='com.skydoves.colorpickerview.databinding']/class[@name='DialogColorpickerColorpickerviewSkydovesBinding']/method[@name='getRoot' and count(parameter)=0]" name="managedReturn">Android.Views.View</attr>
+    <attr path="/api/package[@name='com.skydoves.colorpickerview.databinding']/class[@name='FlagBubbleColorpickerviewSkydovesBinding']/method[@name='getRoot' and count(parameter)=0]" name="managedReturn">Android.Views.View</attr>
 </metadata>

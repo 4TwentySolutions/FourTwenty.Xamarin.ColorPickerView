@@ -11,7 +11,6 @@
         android:id="@+id/colorPickerView"
         android:layout_width="300dp"
         android:layout_height="300dp"
-        app:palette="@drawable/palette"
         app:selector="@drawable/wheel"/>
     <Button 
         android:layout_width="wrap_content"

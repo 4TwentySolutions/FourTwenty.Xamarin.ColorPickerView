@@ -67,7 +67,7 @@ namespace FourTwenty.Xamarin.ColorPickerView.Sample
                 .SetColorListener(this)
                 .SetPreferenceName("MyColorPicker")
                 .SetActionMode(ActionMode.Last)
-                .SetPaletteDrawable(ContextCompat.GetDrawable(this, Resource.Drawable.palette))
+                //.SetPaletteDrawable(ContextCompat.GetDrawable(this, Resource.Drawable.palette))
                 .SetSelectorDrawable(ContextCompat.GetDrawable(this, Resource.Drawable.wheel))
                 .Build();
 
